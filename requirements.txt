@@ -1,5 +1,0 @@
-# No third-party packages are required for this project.
-# It uses only Python's standard library.
-
-# Required by the FASTA Sequence Analyzer project.
-biopython>=1.86
